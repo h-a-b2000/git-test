@@ -3,5 +3,5 @@
 int main ()
 {
 	typedef int inta;
-	inta a =0;
+	inta a =10;
 }
